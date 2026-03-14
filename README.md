@@ -1,6 +1,7 @@
 🏥 Medical Appointment App (Case Study)
 
-📋 Visão GeralEste projeto é uma plataforma end-to-end de agendamento médico desenvolvida para resolver desafios reais de gestão em saúde. 
+📋 Visão Geral
+Este projeto é uma plataforma end-to-end de agendamento médico desenvolvida para resolver desafios reais de gestão em saúde. 
 
 O sistema cobre desde a descoberta de profissionais até a confirmação automatizada de consultas, dividindo-se entre uma interface focada em conversão para pacientes e um back-office completo para administradores.
 
