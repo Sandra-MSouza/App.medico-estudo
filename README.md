@@ -18,8 +18,11 @@ Option Sets: Utilizados para Especialidade Médica e Status da Consulta, otimiza
 🚀 Funcionalidades Principais:
 
 Módulo Administrativo (Back-Office): Painel CRUD para gestão de médicos e monitoramento de consultas em tempo real utilizando Repeating Groups dinâmicos.
+
 Jornada do Paciente: Motor de busca com filtros inteligentes por nome e especialidade.
+
 Integração com Brasil API: Preenchimento automático de endereço (Rua, Bairro, Cidade) a partir do CEP, reduzindo o atrito no cadastro.
+
 Automação de Confirmação: Workflow que processa o agendamento e dispara automaticamente um e-mail com os detalhes da consulta.
 
 📖 O que este projeto demonstra?
