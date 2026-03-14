@@ -7,7 +7,8 @@ O sistema cobre desde a descoberta de profissionais até a confirmação automat
 
 🛠️ Tech StackPlataforma: 
 
-Bubble.io.Banco de Dados: Modelagem Relacional e Option Sets.Integrações: API REST (Brasil API) via API Connector.
+Bubble.io.
+Banco de Dados: Modelagem Relacional e Option Sets.Integrações: API REST (Brasil API) via API Connector.
 Automação: Workflows orientados a eventos e e-mails transacionais.
 
 🏗️ Arquitetura de Dados
